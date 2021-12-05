@@ -1,0 +1,16 @@
+.container {
+  padding: 3rem;
+}
+
+.tableHeader > span {
+  font-weight: bold;
+}
+
+label {
+  margin-right: 1rem;
+}
+
+input {
+  padding: 1rem;
+  font-size: 1.2rem;
+}
